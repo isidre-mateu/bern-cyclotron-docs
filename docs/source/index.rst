@@ -7,11 +7,6 @@ The facility has a dual use: on one hand the production of radiotracers for medi
 
 This documentation aims at providing useful information to external users coming to the facility to perform radiation tests. At the same time it compiles several "How-To" guides for operating different pieces of equipment available in the facility.
 
-Contents
---------
-
-
-
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
