@@ -25,5 +25,6 @@ Contents
 
 .. toctree::
 
+   info_for_users
    usage
    api
