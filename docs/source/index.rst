@@ -26,5 +26,6 @@ Contents
 .. toctree::
 
    info_for_users
+   gamma_spectrometry
    usage
    api
