@@ -26,8 +26,9 @@ Contents
 .. toctree::
 
    info_for_users
-   beam_monitoring
+   beam_transfer_line
    gamma_spectrometry
    cross_sections
-   usage
-   api
+   neutrons
+   scintillators
+   it_infrastructure

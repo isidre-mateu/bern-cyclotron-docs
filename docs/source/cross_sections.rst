@@ -1,5 +1,5 @@
-Cross section measurements at the Bern Cyclotron
-================================================
+Cross section measurements
+==========================
 
 
 Cross-section measurement on the BTL
