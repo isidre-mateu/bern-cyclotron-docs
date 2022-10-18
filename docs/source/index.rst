@@ -26,6 +26,8 @@ Contents
 .. toctree::
 
    info_for_users
+   beam_monitoring
    gamma_spectrometry
+   cross_sections
    usage
    api
