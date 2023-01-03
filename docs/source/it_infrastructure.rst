@@ -1,6 +1,18 @@
 IT infrastructure
 =================
 
+How to connect to the LAN from SWAN 
+-----------------------------------
+
+To connect a computer to the LAN connect it via ethernet to any outlet with the "Uni" label. (TODO: label the outlets!). The computer needs to be configured with a static IP, with the following settings:
+
+*IP:* 192.168.113.XXX (XXX can be any number between 1 and 255, please verify that the IP is not used in the list of computers below)
+*Subnet mask:* 255.255.255.0 (or 24 if the mask length is required)
+*Gateway:* 192.168.113.2
+*DNS:* 8.8.8.8
+
+
+
 List of computers
 -----------------
 
