@@ -19,9 +19,7 @@ List of computers
 +-------------------------------+---------------------+----------------+-------------------------+
 | Device                        | IP                  | User Name      | Location                |
 +===============================+=====================+================+=========================+
-| Server                        | 192.168.113.2       | Administrator  | Server room             |
-|                               |                     | lhep           |                         |
-+-------------------------------+---------------------+----------------+-------------------------+
+| Server                        | 192.168.113.2       | lhep           | Server room             | +-------------------------------+---------------------+----------------+-------------------------+
 | Remote desktop thin client    | 192.168.113.4       | -              | Control room            |
 +-------------------------------+---------------------+----------------+-------------------------+
 | Tower PC                      | 192.168.113.5       | lhep           | Physics Lab             |
@@ -50,4 +48,30 @@ List of computers
 +-------------------------------+---------------------+----------------+-------------------------+
 | BTL bunker video server       | 192.168.113.243     | root           | Airlock                 |
 +-------------------------------+---------------------+----------------+-------------------------+
+
+How to connect to the SWAN VPN
+------------------------------
+
+What follows is a step-by-step guide for connecting to the VPN in the case of a Windows computer. If you are using another operating system you need to use a different client.
+The procedure is the following:
+
+#.	Install the OpenVPN client from ` here <https://openvpn.net/community-downloads/>`_
+#.	Copy your certificate and configuration files in a folder of your choice in your computer. For (e.g.  C:\Users\<user_name>\Documents\openvpn\)
+#.	Edit lines 88, 89, 90 and 108 of the client_template.ovpn file (you can rename it if you want), and replace the following strings:
+
+	*	<path to keys folder>: the folder path where you copied the files (e.g C:\\Users\\<user_name>\\Documents\\openvpn\\). Pay attention to use the double inverted slash \\ instead of the single \ !!!
+	*	<client_name>: the name of your certificate file.
+
+#.	Locate the OpenVPN-GUI icon next to the windows clock. If it is not there, you have to execute the OpenVPN-GUI application (which you installed in point 1) and normally it should appear.
+#.	Right click on the icon and click “Import file”, locate the configuration file that you edited in point 3 and import it.
+#.	Right click again on the OpenVPN-Gui icon and click connect. If the connection is successful you should get a message telling you that you are connected to the VPN. Now you can access all the computers in the lab using remote desktop, as if you were at SWAN.
+
+**Note**: by default, the OpenVPN client will try to establish a connection at the computer startup. If you want to change this behavior you can go to Settings and disable the option “Launch on Logon”.
+
+
+
+How to connect to the University VPN from SWAN
+----------------------------------------------
+
+
 
