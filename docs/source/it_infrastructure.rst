@@ -76,6 +76,28 @@ The procedure is the following:
 
 **Mac:**
 
+#. Install `Tunnelblick <https://tunnelblick.net/downloads.html>`_ open source VPN client
+#. Files you need:
+	*	<client name>.ovpn
+	*	<client name>.key
+	*   <client name>.crt
+	*   ca.crt
+	*   ta.key
+	
+#. Make sure that in the .ovpn file the lines 88 - 90 containe the following::
+
+	88. cr “< copy path of your ca.crt file into here! >“
+	89. cert “< copy path of your <client name>.crt file into here! >“
+	90. key “< copy path of your <client name>.key file into here! >“
+	
+	(You need to replace the text above with your files' path)
+	
+#. Drag and Drop your .opvn file into Tunnelblick’s Configuration Window:
+
+.. image:: images/test.png
+
+
+
 
 
 How to connect to the University VPN from SWAN
