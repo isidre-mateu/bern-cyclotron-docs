@@ -92,10 +92,14 @@ The procedure is the following:
 	
 #. Drag and Drop your .opvn file into Tunnelblick’s Configuration Window:
 
-.. image:: images/test.png
+.. figure:: images/IT/swanvpn_mac_image1.png
 
+   In case of error, make sure that your paths are edited correctly within your .opvn file.
+   
+#. Go to Tunnelblick’s Dienstprogramme submenu (Utilities) and click on the second button “Tunund
+Tap-Systemerweiterungen installieren…”
 
-
+.. figure:: images/IT/swanvpn_mac_image2.png
 
 
 How to connect to the University VPN from SWAN
