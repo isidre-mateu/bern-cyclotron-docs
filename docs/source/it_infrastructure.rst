@@ -92,7 +92,7 @@ The procedure is the following:
 	
 #. Drag and Drop your .opvn file into Tunnelblick’s Configuration Window:
 
-:: images/test.png
+.. image:: images/test.png
 
 
 
