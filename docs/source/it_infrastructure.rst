@@ -89,6 +89,10 @@ The procedure is the following:
 	90. key “< copy path of your <client name>.key file into here! >“
 	
 	(You need to replace the text above with your files' path)
+	
+#. Drag and Drop your .opvn file into Tunnelblick’s Configuration Window:
+
+:: images/test.png
 
 
 
