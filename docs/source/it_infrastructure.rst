@@ -105,10 +105,11 @@ Tap-Systemerweiterungen installieren…”
 
 #. This won’t be possible at first, as under the new MacOS (Sierra (?) and newer) some security
 setting have to be changed. This is done as follows:
+	
 	#. Go to your Mac’s "Security & Privacy" settings in your System Preferences
 	#. Under the "General" Tab click the "Details …" button:
 
-.. figure:: images/IT/swanvpn_mac_image2.png
+.. figure:: images/IT/swanvpn_mac_image3.png
 	
 	#. The System will ask you to change your Computer’s Security policy and allow also nonapple-
 controlled software to make changes in your system. This is needed for Tunnelblick
