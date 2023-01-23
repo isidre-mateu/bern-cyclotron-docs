@@ -101,8 +101,4 @@ Tap-Systemerweiterungen installieren…”
 
 
 
-
-	.. figure:: images/IT/swanvpn_mac_image1.png
-
-		In case of error, make sure that your paths are edited correctly within your .opvn file.
    
