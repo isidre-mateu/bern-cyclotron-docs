@@ -102,6 +102,4 @@ The procedure is the following:
 
 #. Go to Tunnelblick’s *Dienstprogramme* submenu (Utilities) and click on the second button “Tunund Tap-Systemerweiterungen installieren…”
 
-
-#. dummy point
-   
+	.. figure:: images/IT/swanvpn_mac_image2.png
