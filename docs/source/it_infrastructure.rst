@@ -96,7 +96,9 @@ The procedure is the following:
 
 .. figure:: images/IT/swanvpn_mac_image1.png
 
-.. figcaption:: In case of error, make sure that your paths are edited correctly within your .opvn file
+.. figcaption:: 
+
+   In case of error, make sure that your paths are edited correctly within your .opvn file
    
 #. Go to Tunnelblick’s *Dienstprogramme* submenu (Utilities) and click on the second button “Tunund
 Tap-Systemerweiterungen installieren…”
