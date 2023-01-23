@@ -100,23 +100,35 @@ The procedure is the following:
 	   In case of error, make sure that your paths are edited correctly within your .opvn file.
 
 
-#. Go to Tunnelblick’s *Dienstprogramme* submenu (Utilities) and click on the second button “Tunund Tap-Systemerweiterungen installieren…”
+#. Go to Tunnelblick’s *Dienstprogramme* submenu (Utilities) and click on the second button "Tunund Tap-Systemerweiterungen installieren…"
 
 	.. figure:: images/IT/swanvpn_mac_image2.png
 
 #. This won’t be possible at first, as under the new MacOS (Sierra (?) and newer) some security
 setting have to be changed. This is done as follows:
 	
-	#. Go to your Mac’s "Security & Privacy" settings in your System Preferences
+	#. Go to your Mac’s "Security \& Privacy" settings in your System Preferences
 	#. Under the "General" Tab click the "Details …" button:
 
 		.. figure:: images/IT/swanvpn_mac_image3.png
 	
 	#. The System will ask you to change your Computer’s Security policy and allow also nonapple-controlled software to make changes in your system. This is needed for Tunnelblick to work.
 	#. Turn off your computer and turn it on again with a long press on the power button. Keep the Power button pressed until you enter your Computer’s advanced settings menu.
-	#. Choose ‚Options‘
-	#. On the bar on the top of your screen chose ‚Utility settings‘ (Dienstprogramme) > Startup Security Utility (Startsicherheitsdienstprogramm)
+	#. Choose "Options"
+	#. On the bar on the top of your screen chose "Utility settings" (*Dienstprogramme*) > Startup Security Utility (*Startsicherheitsdienstprogramm*)
 	#. Select your main volume
 	#. In this window, select the reduced security option and make sure the first of the two checkboxes is checked:
 
 		.. figure:: images/IT/swanvpn_mac_image4.png
+		
+	#. Click "Ok" and restart your Mac
+	#. Go back to your "Security \& Privacy" Settings tab within your System Preferences.
+	#. Click the "Details" button again and make sure that the checkbox for "Jonathan Bullard" is activated, such that the Tunnelblick add-ons can be installed.
+
+		.. figure:: images/IT/swanvpn_mac_image5.png
+
+#. Go back to Tunnelblick, deinstall the add-ons and reinstall them.
+#. The VPN connection should now work as intended.
+	
+	
+	
