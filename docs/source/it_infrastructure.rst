@@ -94,6 +94,8 @@ The procedure is the following:
 	
 #. Drag and Drop your .opvn file into Tunnelblick’s Configuration Window.
 
+#. dummy point
+
 #. Go to Tunnelblick’s *Dienstprogramme* submenu (Utilities) and click on the second button “Tunund
 Tap-Systemerweiterungen installieren…”
 
