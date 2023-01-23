@@ -112,8 +112,7 @@ setting have to be changed. This is done as follows:
 
 		.. figure:: images/IT/swanvpn_mac_image3.png
 	
-	#. The System will ask you to change your Computer’s Security policy and allow also nonapple-
-controlled software to make changes in your system. This is needed for Tunnelblick to work.
+	#. The System will ask you to change your Computer’s Security policy and allow also nonapple-controlled software to make changes in your system. This is needed for Tunnelblick to work.
 	#. Turn off your computer and turn it on again with a long press on the power button. Keep the Power button pressed until you enter your Computer’s advanced settings menu.
 	#. Choose ‚Options‘
 	#. On the bar on the top of your screen chose ‚Utility settings‘ (Dienstprogramme) > Startup Security Utility (Startsicherheitsdienstprogramm)
