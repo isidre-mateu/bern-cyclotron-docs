@@ -84,7 +84,7 @@ The procedure is the following:
 	*   ca.crt
 	*   ta.key
 	
-#. Make sure that in the .ovpn file the lines 88 - 90 containe the following::
+#. Make sure that in the .ovpn file the lines 88 - 90 contain the following::
 
 	88. cr “< copy path of your ca.crt file into here! >“
 	89. cert “< copy path of your <client name>.crt file into here! >“
@@ -94,9 +94,9 @@ The procedure is the following:
 	
 #. Drag and Drop your .opvn file into Tunnelblick’s Configuration Window:
 
-.. figure:: images/IT/swanvpn_mac_image1.png
+	.. figure:: images/IT/swanvpn_mac_image1.png
 
-   In case of error, make sure that your paths are edited correctly within your .opvn file
+		In case of error, make sure that your paths are edited correctly within your .opvn file
    
 #. Go to Tunnelblick’s *Dienstprogramme* submenu (Utilities) and click on the second button “Tunund
 Tap-Systemerweiterungen installieren…”
