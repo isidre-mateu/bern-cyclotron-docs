@@ -92,8 +92,7 @@ The procedure is the following:
 	
 	(You need to replace the text above with your files' path)
 	
-#. Drag and Drop your .opvn file into Tunnelblick’s Configuration Window:
-
+#. Drag and Drop your .opvn file into Tunnelblick’s Configuration Window.
 
 #. Go to Tunnelblick’s *Dienstprogramme* submenu (Utilities) and click on the second button “Tunund
 Tap-Systemerweiterungen installieren…”
