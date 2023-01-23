@@ -98,3 +98,5 @@ The procedure is the following:
 
    In case of error, make sure that your paths are edited correctly within your .opvn file
    
+#. Go to Tunnelblick’s *Dienstprogramme* submenu (Utilities) and click on the second button “Tunund
+Tap-Systemerweiterungen installieren…”
