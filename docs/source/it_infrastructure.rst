@@ -96,9 +96,9 @@ The procedure is the following:
 
 #. dummy point
 
-#. Go to Tunnelblick’s 
+#. Go to Tunnelblick’s *Dienstprogramme*
 
-#. *Dienstprogramme* submenu (Utilities) and click on the second button “Tunund
+#. submenu (Utilities) and click on the second button “Tunund
 Tap-Systemerweiterungen installieren…”
 
 
