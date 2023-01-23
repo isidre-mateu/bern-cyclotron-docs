@@ -96,37 +96,5 @@ The procedure is the following:
 
 .. figure:: images/IT/swanvpn_mac_image1.png
 
-.. caption:: 
-
    In case of error, make sure that your paths are edited correctly within your .opvn file
    
-#. Go to Tunnelblick’s *Dienstprogramme* submenu (Utilities) and click on the second button “Tunund
-Tap-Systemerweiterungen installieren…”
-
-.. figure:: images/IT/swanvpn_mac_image2.png
-
-#. This won’t be possible at first, as under the new MacOS (Sierra (?) and newer) some security
-setting have to be changed. This is done as follows:
-	
-	#. Go to your Mac’s "Security & Privacy" settings in your System Preferences
-	#. Under the "General" Tab click the "Details …" button:
-
-.. figure:: images/IT/swanvpn_mac_image3.png
-	
-	#. The System will ask you to change your Computer’s Security policy and allow also nonapple-
-controlled software to make changes in your system. This is needed for Tunnelblick
-to work.
-	#. Turn off your computer and turn it on again with a long press on the power button. Keep
-the Power button pressed until you enter your Computer’s advanced settings menu.
-	#. Choose ‚Options‘
-	#. On the bar on the top of your screen chose ‚Utility settings‘ (Dienstprogramme) > Startup
-Security Utility (Startsicherheitsdienstprogramm)
-	#. Select your main volume
-	#. In this window, select the reduced security option and make sure the first of the two
-checkboxes is checked:
-
-How to connect to the University VPN from SWAN
-----------------------------------------------
-
-
-
