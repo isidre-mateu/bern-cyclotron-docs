@@ -18,6 +18,14 @@ Mini-Beam Line (Alex)
 
 Solid Target Transfer Station (STTS) (Gaia)
 -------------------------------------------
+Coins irradiated on the MBL can be transferred to the BTL bunker using the Solid Target Transfer Station (STTS). The software to control the STTS is GP-Viewer EX and it is hosted on the Server. To use it, log in to the Server using Remote Desktop and follow the steps below:
+
+	#. Execute the "GP-Viewer EX" icon on the Server Desktop.
+	#. On the Startup screen shown below, select the option "Connect with a file" and select the already created file from the list. If the file is not there, browse the computer for the .GPVE file. It should be located under "E:\LHEP data\STTS\". Make sure the "PASV" option is selected and click "Start Connection".
+	
+		.. figure:: images/STTS/GP Viewer Startup.png
+	
+	   
 
 Manual procedure to force a delivery "B"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
